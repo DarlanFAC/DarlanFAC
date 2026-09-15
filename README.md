@@ -18,13 +18,13 @@ Monto assistentes de WhatsApp com **IA conversacional**, conectados a bancos de 
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/darlanoliveira/">
+  <a href="https://www.linkedin.com/in/darlan-oliveira-flow-automation-consulting/">
     <img src="https://img.shields.io/badge/Fale%20comigo-A855F7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSIxNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZmZmZiI+aW48L3RleHQ+PC9zdmc+&logoColor=white&labelColor=1E1F2F" alt="Fale comigo no LinkedIn" />
   </a>
   <a href="https://www.instagram.com/darlanoliveira_10/">
     <img src="https://img.shields.io/badge/Instagram-22D3EE?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1E1F2F" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/darlanoliveira/">
+  <a href="https://www.linkedin.com/in/darlan-oliveira-flow-automation-consulting/">
     <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSIxNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZmZmZiI+aW48L3RleHQ+PC9zdmc+&logoColor=white&labelColor=1E1F2F" alt="LinkedIn" />
   </a>
 </p>
@@ -75,6 +75,6 @@ Monto assistentes de WhatsApp com **IA conversacional**, conectados a bancos de 
 <div align="center">
 
 **Vamos automatizar o seu atendimento?**
-[💬 Fale comigo no LinkedIn](https://www.linkedin.com/in/darlanoliveira/) · [📸 Me siga no Instagram](https://www.instagram.com/darlanoliveira_10/)
+[💬 Fale comigo no LinkedIn](https://www.linkedin.com/in/darlan-oliveira-flow-automation-consulting/) · [📸 Me siga no Instagram](https://www.instagram.com/darlanoliveira_10/)
 
 </div>
